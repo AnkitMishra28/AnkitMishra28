@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 <h3 align="center">STUDENT:-  INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, VADODARA</h3>
 
