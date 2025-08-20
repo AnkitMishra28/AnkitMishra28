@@ -1,43 +1,64 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
-<h3 align="center">Fullstack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">STUDENT:-  INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, VADODARA</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitMishra28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
+<p align="center">
+  <a href="mailto:am2802004@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-blue?style=for-the-badge" alt="connect" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE Student at **IIIT Vadodara**  
-- 💻 Passionate about **Fullstack Development, AI/ML, and Scalable Systems**  
-- 🌱 Currently learning **Cloud Computing (AWS, Docker, CI/CD)**  
-- ⚡ Fun fact: I love solving problems and turning ideas into working products 🚀  
+## 🐱 About Me
+Hi! I'm a **developer passionate about AI, fullstack development, and scalable solutions**.  
+I thrive on solving complex problems, pushing the boundaries of technology, and building intelligent systems that make an impact.  
 
 ---
 
 ## 🏆 Notable Achievements
-- 🔹 Promoted from **Software Developer Intern → Project Lead Intern** at Infinoid in 2 months.  
-- 🔹 Built SaaS applications (AMS & VMS) used by **1000+ users**.  
-- 🔹 CodeChef **3⭐ Coder** (Max Rating: 1629).  
-- 🔹 Secretary of **Vehemence Music Club**, organized 5+ events with 40% more student engagement.  
+- ✅ **Developed full-stack web applications**, integrating frontend and backend.  
+- ✅ **Built and deployed AI-powered solutions**, enhancing productivity.  
+- ✅ **Actively contributed to open-source projects**, refining performance.  
+- ✅ **Conducted workshops & mentorship programs** on software development.  
 
 ---
 
-## 💻 Tech Stack
+## 🔥 Currently Working On
+- 🚀 Web Development (MERN Stack)  
+- 🤖 Machine Learning projects  
+- 📚 System Design & Scalable Architectures  
+
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,html,css,tailwind,git,docker,aws,firebase,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,cpp,java,tailwind,git,github,docker" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitMishra28&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitMishra28&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitMishra28&show_icons=true&theme=tokyonight" alt="Ankit's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitMishra28&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitMishra28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitMishra28&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitMishra28&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
