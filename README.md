@@ -3,25 +3,14 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=1200&lines=Pre-Final+Year+CSE+Student+%40+IIIT+Vadodara;Software+Engineering+Intern+%40+Infinoid+Technologies+Pvt.+Ltd.;Building+AI-Powered+Products+and+SaaS+Platforms;Full-Stack+Developer+%7C+GenAI+Builder;Google+Cloud+Certified+Learner;Solving+DSA+Problems+and+Building+Real-World+Projects;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Pre-Final+Year+CSE+Student+%40+IIIT+Vadodara;Software+Engineering+Intern+%40+Infinoid+Technologies+Pvt.+Ltd.;Building+AI-Powered+Products+and+SaaS+Platforms;Full-Stack+Developer+%7C+GenAI+Builder;Google+Cloud+Certified+Learner;Solving+DSA+Problems+and+Building+Real-World+Projects;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ankit-mishra-189b38277">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:anrmishra.140304@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/AnkitMishra28">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AnkitMishra28&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
-
+<a href="https://www.linkedin.com/in/ankit-mishra-189b38277"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anrmishra.140304@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AnkitMishra28"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=AnkitMishra28&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
