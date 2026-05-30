@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Pre-Final+Year+CSE+Student+%40+IIIT+Vadodara;Software+Engineering+Intern+%40+Infinoid+Technologies+Pvt.+Ltd.;Building+AI-Powered+Products+and+SaaS+Platforms;Full-Stack+Developer+%7C+GenAI+Builder;Google+Cloud+Certified+Learner;Solving+DSA+Problems+and+Building+Real-World+Projects;Open+to+Software+Engineering+Internships+and+Full-Time+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=1200&lines=Pre-Final+Year+CSE+Student+%40+IIIT+Vadodara;Software+Engineering+Intern+%40+Infinoid+Technologies+Pvt.+Ltd.;Building+AI-Powered+Products+and+SaaS+Platforms;Full-Stack+Developer+%7C+GenAI+Builder;Google+Cloud+Certified+Learner;Solving+DSA+Problems+and+Building+Real-World+Projects;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 <p align="center">
@@ -324,11 +324,10 @@ Fun_Fact:
 <p align="center">
 ⭐ If any of my projects helped you, consider giving them a star!
 </p>
-```
 
 ## Connect With Me
 <p align="center">
-  <a href="mailto:am2802004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:anrmishra.140304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ankit-mishra-189b38277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/AnkitMishra28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.codechef.com/users/aided_light_76"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
