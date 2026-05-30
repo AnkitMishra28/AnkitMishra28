@@ -223,7 +223,7 @@ class AnkitMishra:
 
 ###  Infinoid Technologies Pvt. Ltd.
 
-**2026 - Present**
+**May 2026 - Present**
 
 **Software Engineering Intern**
 
@@ -235,7 +235,7 @@ Full Stack Development • AI Integrations • Cloud Solutions • Product Engin
 
 ###  Infinoid Technologies
 
-**2025 - 2026**
+**August 2025 - April 2026**
 
 **Lead Full Stack Developer Intern**
 
