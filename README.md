@@ -9,10 +9,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ankit-mishra-189b38277"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:anrmishra.140304@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://my-portfolio-drab-nine-27.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/AnkitMishra28"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=AnkitMishra28&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 </p>
-
 ---
 
 ## About Me
@@ -27,18 +27,15 @@ class AnkitMishra:
             "Indian Institute of Information Technology, Vadodara"
         )
         self.degree = "B.Tech Computer Science"
-
         self.role = (
             "Software Engineer | Full-Stack Developer | GenAI Builder"
         )
-
         self.interests = [
             "Full Stack Development",
             "Generative AI",
             "Cloud Computing",
             "System Design"
         ]
-
         self.current_work = [
             "SenseAI Career Coach",
             "Enterprise SaaS Platforms",
@@ -46,7 +43,6 @@ class AnkitMishra:
             "CRM-System(Customer Relationship Management)",
             "Scalable Cloud Applications"
         ]
-
         self.tech_stack = [
             "React",
             "Next.js",
@@ -57,7 +53,6 @@ class AnkitMishra:
             "Docker",
             "Google Cloud"
         ]
-
         self.achievements = {
             "Internship":
                 "Software Engineering Intern @ Infinoid Technologies Private Limited",
@@ -71,7 +66,6 @@ class AnkitMishra:
             "Focus":
                 "Building Production-Ready AI Systems"
         }
-
         self.fun_fact = (
             "I enjoy turning ideas into products faster than I finish my coffee ☕"
         )
@@ -317,6 +311,7 @@ Fun_Fact:
 ## Connect With Me
 <p align="center">
   <a href="mailto:anrmishra.140304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://my-portfolio-drab-nine-27.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
   <a href="https://www.linkedin.com/in/ankit-mishra-189b38277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/AnkitMishra28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.codechef.com/users/aided_light_76"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
