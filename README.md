@@ -254,11 +254,7 @@ class AnkitMishra:
 ## Developer Metrics & Analytics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Ankit Mishra GitHub Metrics" width="100%" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitMishra28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AnkitMishra28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitMishra28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -267,7 +263,7 @@ class AnkitMishra:
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitMishra28&theme=tokyonight" alt="Repos Per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitMishra28&theme=tokyonight" alt="Top Languages by Repo" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitMishra28&theme=tokyonight" alt="Most Commit Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkitMishra28&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
