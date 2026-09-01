@@ -59,16 +59,6 @@ class AnkitMishra:
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24" alt="Footer Banner" />
-</p>
-
-<p align="center">
-  <b>"Building complete software products at the intersection of robust engineering and AI."</b>
-</p>
-
-<div align="center">
-
 ---
 
 ## Tech Stack
@@ -308,6 +298,16 @@ Open_To:
 ```
 
 ---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24" alt="Footer Banner" />
+</p>
+
+<p align="center">
+  <b>"Building complete software products at the intersection of robust engineering and AI."</b>
+</p>
+
+<div align="center">
 
 ### Connect With Me
 
