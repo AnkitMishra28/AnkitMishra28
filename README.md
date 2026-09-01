@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```python
 class AnkitMishra:
@@ -34,12 +34,12 @@ class AnkitMishra:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/AnkitMishra28/AI-Powered-Credit-Risk-Financial-Intelligence-Platform">CreditLens — Financial Intelligence Platform</a></h3>
+      <h3><a href="https://github.com/AnkitMishra28/AI-Powered-Credit-Risk-Financial-Intelligence-Platform">CreditLens — Financial Intelligence Platform</a></h3>
       <p><b>Full-stack AI fintech platform</b> combining deterministic credit diagnostics, explainable ML default risk prediction, bank statement ledger ingestion, and an RBI-grounded regulatory AI copilot.</p>
       <ul>
         <li><b>Deterministic 6-Factor Engine:</b> Computes 0–1000 credit health score with SHA-256 statement ledger deduplication.</li>
@@ -55,7 +55,7 @@ class AnkitMishra:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/AnkitMishra28/semantic-product-search-recommendation-engine">Semantic Product Search & Recommendation Engine</a></h3>
+      <h3><a href="https://github.com/AnkitMishra28/semantic-product-search-recommendation-engine">Semantic Product Search & Recommendation Engine</a></h3>
       <p><b>Multi-stage semantic search and recommendation engine</b> evaluated over 60,000 Amazon Electronics products with deep learning retrieval, neural reranking, and grounded matching.</p>
       <ul>
         <li><b>Dual-Track Retrieval:</b> Dense FAISS HNSW (384-dim) vector search + Lexical BM25Okapi merged via Reciprocal Rank Fusion (RRF).</li>
@@ -66,14 +66,13 @@ class AnkitMishra:
         <code>Python</code> · <code>PyTorch</code> · <code>FAISS (HNSW)</code> · <code>Sentence Transformers</code> · <code>FastAPI</code> · <code>Next.js</code>
       </p>
       <p>
-        <a href="https://github.com/AnkitMishra28/semantic-product-search-recommendation-engine"><b>View Code →</b></a> &nbsp;|&nbsp;
-        <a href="https://semantic-product-search-recommendat.vercel.app"><b>Live Demo ↗</b></a>
+        <a href="https://github.com/AnkitMishra28/semantic-product-search-recommendation-engine"><b>View Code →</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/AnkitMishra28/AI-Career-Coach">SenseAI Career OS</a></h3>
+      <h3><a href="https://github.com/AnkitMishra28/AI-Career-Coach">SenseAI Career OS</a></h3>
       <p><b>Context-aware career operating system</b> unifying developer telemetry, deterministic career health scoring, AI-powered resume optimization, and dual-mode mock interview practice.</p>
       <ul>
         <li><b>Candidate Telemetry:</b> Real-time ATS keyword matching density analysis and competency gap diagnostics.</li>
@@ -89,7 +88,7 @@ class AnkitMishra:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/AnkitMishra28/AssetFlow-Enterprise-Asset-Management">AssetFlow — Enterprise Asset Management</a></h3>
+      <h3><a href="https://github.com/AnkitMishra28/AssetFlow-Enterprise-Asset-Management">AssetFlow — Enterprise Asset Management</a></h3>
       <p><b>Enterprise asset and resource lifecycle management system</b> built for the Odoo Hackathon 2026, enabling asset allocation workflows, maintenance tracking, and audit reporting.</p>
       <ul>
         <li><b>Asset Lifecycle Operations:</b> Centralized allocation, depreciation calculation, and real-time maintenance requests.</li>
@@ -107,7 +106,7 @@ class AnkitMishra:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌨️ <a href="https://github.com/AnkitMishra28/Keystroke-Dynamics-Project">KeyStroke-AI — Behavioral Biometric Authentication</a></h3>
+      <h3><a href="https://github.com/AnkitMishra28/Keystroke-Dynamics-Project">KeyStroke-AI — Behavioral Biometric Authentication</a></h3>
       <p><b>Machine learning-powered behavioral biometric authentication system</b> that verifies user identity by analyzing continuous keystroke timing dynamics.</p>
       <ul>
         <li><b>Telemetry Extraction:</b> Analyzes key dwell durations, flight times, and digram latency patterns in real time.</li>
@@ -122,7 +121,7 @@ class AnkitMishra:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/AnkitMishra28/CausalFunnel-UserAnalytics">CausalFunnel — Real-Time User Analytics</a></h3>
+      <h3><a href="https://github.com/AnkitMishra28/CausalFunnel-UserAnalytics">CausalFunnel — Real-Time User Analytics</a></h3>
       <p><b>Interactive telemetry and analytics dashboard</b> tracking conversion funnels, user event flows, and session engagement metrics.</p>
       <ul>
         <li><b>Funnel Telemetry:</b> Real-time conversion drop-off analysis and session journey tracking.</li>
@@ -141,18 +140,40 @@ class AnkitMishra:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
+
+<p align="center"><i>Career Progression at Infinoid Technologies: Full Stack Development → Technical Leadership → Software Engineering</i></p>
 
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="center" width="33%">May 2026 – August 2026</th>
-      <th align="center" width="33%">August 2025 – April 2026</th>
       <th align="center" width="33%">May 2025 – July 2025</th>
+      <th align="center" width="33%">August 2025 – April 2026</th>
+      <th align="center" width="33%">May 2026 – August 2026</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td valign="top">
+        <h4 align="center">Full Stack Developer Intern</h4>
+        <p align="center"><b>Infinoid Technologies</b><br />
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=flat-square" alt="Completed" /></p>
+        <ul>
+          <li>Developed responsive user interfaces with React and reusable component design systems.</li>
+          <li>Constructed robust RESTful API endpoints and designed structured MongoDB schema models.</li>
+          <li>Implemented JWT authentication, input validation, and cross-browser responsiveness.</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <h4 align="center">Lead Full Stack Developer Intern</h4>
+        <p align="center"><b>Infinoid Technologies</b><br />
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=flat-square" alt="Completed" /></p>
+        <ul>
+          <li>Led end-to-end full-stack development across core MERN deliverables and client solutions.</li>
+          <li>Architected modular RESTful API contracts, implemented secure auth, and conducted peer code reviews.</li>
+          <li>Optimized frontend render performance and database indexing for high data volume modules.</li>
+        </ul>
+      </td>
       <td valign="top">
         <h4 align="center">Software Engineering Intern</h4>
         <p align="center"><b>Infinoid Technologies Pvt. Ltd.</b><br />
@@ -163,33 +184,13 @@ class AnkitMishra:
           <li>Collaborated on cloud microservice deployments and database performance optimizations.</li>
         </ul>
       </td>
-      <td valign="top">
-        <h4 align="center">Lead Full Stack Developer Intern</h4>
-        <p align="center"><b>Infinoid Technologies Pvt. Ltd.</b><br />
-        <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=flat-square" alt="Completed" /></p>
-        <ul>
-          <li>Led end-to-end full-stack development across core MERN deliverables and client solutions.</li>
-          <li>Architected modular RESTful API contracts, implemented secure auth, and conducted peer code reviews.</li>
-          <li>Optimized frontend render performance and database indexing for high data volume modules.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <h4 align="center">Full Stack Developer Intern</h4>
-        <p align="center"><b>Infinoid Technologies Pvt. Ltd.</b><br />
-        <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=flat-square" alt="Completed" /></p>
-        <ul>
-          <li>Developed responsive user interfaces with React and reusable component design systems.</li>
-          <li>Constructed robust RESTful API endpoints and designed structured MongoDB schema models.</li>
-          <li>Implemented JWT authentication, input validation, and cross-browser responsiveness.</li>
-        </ul>
-      </td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -250,7 +251,7 @@ class AnkitMishra:
 
 ---
 
-## 📊 Developer Metrics & Analytics
+## Developer Metrics & Analytics
 
 <p align="center">
   <img src="github-metrics.svg" alt="Ankit Mishra GitHub Metrics" width="100%" />
@@ -273,7 +274,7 @@ class AnkitMishra:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Building:
@@ -294,7 +295,7 @@ Open_To:
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnkitMishra28/AnkitMishra28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
