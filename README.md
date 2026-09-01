@@ -51,6 +51,24 @@ class AnkitMishra:
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnkitMishra28/AnkitMishra28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24" alt="Footer Banner" />
+</p>
+
+<p align="center">
+  <b>"Building complete software products at the intersection of robust engineering and AI."</b>
+</p>
+
+<div align="center">
+
 ---
 
 ## Tech Stack
@@ -290,24 +308,6 @@ Open_To:
 ```
 
 ---
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitMishra28/AnkitMishra28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24" alt="Footer Banner" />
-</p>
-
-<p align="center">
-  <b>"Building complete software products at the intersection of robust engineering and AI."</b>
-</p>
-
-<div align="center">
 
 ### Connect With Me
 
