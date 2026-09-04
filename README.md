@@ -35,18 +35,18 @@ class AnkitMishra:
 ## Developer Metrics & Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AnkitMishra28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitMishra28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="./profile/github-stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="./profile/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitMishra28&theme=tokyonight" alt="Profile Details" />
+  <img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitMishra28&theme=tokyonight" alt="Top Languages by Repo" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitMishra28&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkitMishra28&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
@@ -56,8 +56,6 @@ class AnkitMishra:
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnkitMishra28/AnkitMishra28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
-
----
 
 ---
 
